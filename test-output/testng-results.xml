@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17725" started-at="2024-10-25T13:26:29 EDT" finished-at="2024-10-25T13:26:47 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17725" started-at="2024-10-25T13:26:29 EDT" finished-at="2024-10-25T13:26:47 EDT">
+      <class name="com.automation.test.AutomationScripts">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.AutomationScripts@5ba3f27a]" name="setUpBeforeMethod" is-config="true" duration-ms="4471" started-at="2024-10-25T13:26:30 EDT" finished-at="2024-10-25T13:26:34 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="invalid_password_login()[pri:0, instance:com.automation.test.AutomationScripts@5ba3f27a]" name="invalid_password_login" duration-ms="3772" started-at="2024-10-25T13:26:34 EDT" finished-at="2024-10-25T13:26:38 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalid_password_login -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.automation.test.AutomationScripts@5ba3f27a]" name="tearDownMethod" is-config="true" duration-ms="653" started-at="2024-10-25T13:26:38 EDT" finished-at="2024-10-25T13:26:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.AutomationScripts@5ba3f27a]" name="setUpBeforeMethod" is-config="true" duration-ms="2471" started-at="2024-10-25T13:26:39 EDT" finished-at="2024-10-25T13:26:41 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="valid_login()[pri:0, instance:com.automation.test.AutomationScripts@5ba3f27a]" name="valid_login" duration-ms="5068" started-at="2024-10-25T13:26:41 EDT" finished-at="2024-10-25T13:26:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_login -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.automation.test.AutomationScripts@5ba3f27a]" name="tearDownMethod" is-config="true" duration-ms="778" started-at="2024-10-25T13:26:46 EDT" finished-at="2024-10-25T13:26:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.automation.test.AutomationScripts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

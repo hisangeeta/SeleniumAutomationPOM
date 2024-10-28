@@ -1,0 +1,1450 @@
+20241018 12:17:30 ERROR [main] LogTests.LogTests LogTests.java33 - test completed with failure
+20241018 12:17:30 DEBUG [main] LogTests.LogTests LogTests.java41 - test started
+20241019 13:55:21 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 13:55:27 INFO  [main] base.BaseTest BaseTest.java58 - https://login.salesforce.com/is entered
+20241019 13:55:32 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the Username
+20241019 13:55:32 ERROR [main] base.BaseTest BaseTest.java69 - Password textbox is not diplayed
+20241019 13:55:33 INFO  [main] base.BaseTest BaseTest.java76 - login Button button is clicked
+20241019 13:55:33 INFO  [main] base.BaseTest BaseTest.java149 - text is extracted from Actual Error
+20241019 13:55:33 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 13:55:34 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241019 13:55:34 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241019 13:55:35 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 13:55:37 INFO  [main] base.BaseTest BaseTest.java58 - https://login.salesforce.com/is entered
+20241019 13:55:43 INFO  [main] base.BaseTest BaseTest.java76 - remember me button is clicked
+20241019 13:55:43 INFO  [main] base.BaseTest BaseTest.java76 - login Button button is clicked
+20241019 13:55:43 INFO  [main] base.BaseTest BaseTest.java169 - login buttonwaiting for visibility for maximum of 3sec
+20241019 13:55:43 INFO  [main] test.AutomationScripts AutomationScripts.java86 - Login | Salesforce
+20241019 13:55:43 INFO  [main] base.BaseTest BaseTest.java209 - screen captured
+20241019 13:55:43 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 13:55:44 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 13:55:46 INFO  [main] base.BaseTest BaseTest.java58 - https://login.salesforce.com/is entered
+20241019 13:55:51 INFO  [main] base.BaseTest BaseTest.java76 - remember me button is clicked
+20241019 13:55:52 INFO  [main] base.BaseTest BaseTest.java76 - login Button button is clicked
+20241019 13:55:52 INFO  [main] base.BaseTest BaseTest.java169 - login buttonwaiting for visibility for maximum of 3sec
+20241019 13:55:52 INFO  [main] test.AutomationScripts AutomationScripts.java86 - Login | Salesforce
+20241019 13:55:52 INFO  [main] base.BaseTest BaseTest.java209 - screen captured
+20241019 13:55:52 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 13:55:53 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 13:55:55 INFO  [main] base.BaseTest BaseTest.java58 - https://login.salesforce.com/is entered
+20241019 13:56:01 INFO  [main] base.BaseTest BaseTest.java76 - remember me button is clicked
+20241019 13:56:01 INFO  [main] base.BaseTest BaseTest.java76 - login Button button is clicked
+20241019 13:56:01 INFO  [main] base.BaseTest BaseTest.java169 - login buttonwaiting for visibility for maximum of 3sec
+20241019 13:56:01 INFO  [main] test.AutomationScripts AutomationScripts.java86 - Login | Salesforce
+20241019 13:56:01 INFO  [main] base.BaseTest BaseTest.java209 - screen captured
+20241019 13:56:01 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 13:56:02 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 13:56:04 INFO  [main] base.BaseTest BaseTest.java58 - https://login.salesforce.com/is entered
+20241019 13:56:09 INFO  [main] base.BaseTest BaseTest.java76 - remember me button is clicked
+20241019 13:56:10 INFO  [main] base.BaseTest BaseTest.java76 - login Button button is clicked
+20241019 13:56:10 INFO  [main] base.BaseTest BaseTest.java169 - login buttonwaiting for visibility for maximum of 3sec
+20241019 13:56:10 INFO  [main] test.AutomationScripts AutomationScripts.java86 - Login | Salesforce
+20241019 13:56:10 INFO  [main] base.BaseTest BaseTest.java209 - screen captured
+20241019 13:56:10 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 13:56:10 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 13:56:13 INFO  [main] base.BaseTest BaseTest.java58 - https://login.salesforce.com/is entered
+20241019 13:56:18 INFO  [main] base.BaseTest BaseTest.java76 - remember me button is clicked
+20241019 13:56:19 INFO  [main] base.BaseTest BaseTest.java76 - login Button button is clicked
+20241019 13:56:19 INFO  [main] base.BaseTest BaseTest.java169 - login buttonwaiting for visibility for maximum of 3sec
+20241019 13:56:20 INFO  [main] test.AutomationScripts AutomationScripts.java86 - Home Page ~ Salesforce - Developer Edition
+20241019 13:56:20 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 13:56:20 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 13:56:22 INFO  [main] base.BaseTest BaseTest.java58 - https://login.salesforce.com/is entered
+20241019 13:56:28 INFO  [main] base.BaseTest BaseTest.java76 - remember me button is clicked
+20241019 13:56:36 INFO  [main] base.BaseTest BaseTest.java76 - login Button button is clicked
+20241019 13:56:36 INFO  [main] base.BaseTest BaseTest.java169 - login buttonwaiting for visibility for maximum of 3sec
+20241019 13:56:36 INFO  [main] test.AutomationScripts AutomationScripts.java86 - Login | Salesforce
+20241019 13:56:36 INFO  [main] base.BaseTest BaseTest.java209 - screen captured
+20241019 13:56:36 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 21:36:45 ERROR [main] LogTests.LogTests LogTests.java50 - test completed with failure
+20241019 21:36:45 DEBUG [main] LogTests.LogTests LogTests.java60 - test started
+20241019 21:45:00 ERROR [main] LogTests.LogTests LogTests.java56 - test completed with failure
+20241019 21:45:00 DEBUG [main] LogTests.LogTests LogTests.java70 - test started
+20241019 21:51:16 ERROR [main] LogTests.LogTests LogTests.java63 - test completed with failure
+20241019 21:51:16 DEBUG [main] LogTests.LogTests LogTests.java77 - test started
+20241019 23:44:41 INFO  [main] utility.SalesforceListeners SalesforceListeners.java16 - Test Started
+20241019 23:44:42 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:44:47 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:44:52 INFO  [main] utility.SalesforceListeners SalesforceListeners.java29 - invalid_password_login  started..................
+20241019 23:44:53 INFO  [main] base.BaseTest BaseTest.java69 - data is entered in the Username
+20241019 23:44:53 ERROR [main] base.BaseTest BaseTest.java71 - Password textbox is not diplayed
+20241019 23:44:53 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:44:54 INFO  [main] base.BaseTest BaseTest.java151 - text is extracted from Actual Error
+20241019 23:44:54 INFO  [main] test.AutomationScripts AutomationScripts.java50 - actual message is same as expected
+20241019 23:44:54 INFO  [main] utility.SalesforceListeners SalesforceListeners.java35 - invalid_password_login ended with success......................
+20241019 23:44:54 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:44:54 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241019 23:44:54 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241019 23:44:55 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:44:57 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:45:02 INFO  [main] utility.SalesforceListeners SalesforceListeners.java29 - valid_login  started..................
+20241019 23:45:03 INFO  [main] base.BaseTest BaseTest.java78 - remember me button is clicked
+20241019 23:45:03 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:45:03 INFO  [main] base.BaseTest BaseTest.java171 - login buttonwaiting for visibility for maximum of 3sec
+20241019 23:45:03 INFO  [main] test.AutomationScripts AutomationScripts.java88 - Login | Salesforce
+20241019 23:45:04 INFO  [main] base.BaseTest BaseTest.java211 - screen captured
+20241019 23:45:04 ERROR [main] utility.SalesforceListeners SalesforceListeners.java43 - valid_login ended with failure.....................
+20241019 23:45:04 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:45:04 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:45:06 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:45:11 INFO  [main] utility.SalesforceListeners SalesforceListeners.java29 - valid_login  started..................
+20241019 23:45:12 INFO  [main] base.BaseTest BaseTest.java78 - remember me button is clicked
+20241019 23:45:12 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:45:12 INFO  [main] base.BaseTest BaseTest.java171 - login buttonwaiting for visibility for maximum of 3sec
+20241019 23:45:12 INFO  [main] test.AutomationScripts AutomationScripts.java88 - Login | Salesforce
+20241019 23:45:13 INFO  [main] base.BaseTest BaseTest.java211 - screen captured
+20241019 23:45:13 ERROR [main] utility.SalesforceListeners SalesforceListeners.java43 - valid_login ended with failure.....................
+20241019 23:45:13 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:45:13 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:45:15 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:45:20 INFO  [main] utility.SalesforceListeners SalesforceListeners.java29 - valid_login  started..................
+20241019 23:45:21 INFO  [main] base.BaseTest BaseTest.java78 - remember me button is clicked
+20241019 23:45:21 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:45:21 INFO  [main] base.BaseTest BaseTest.java171 - login buttonwaiting for visibility for maximum of 3sec
+20241019 23:45:21 INFO  [main] test.AutomationScripts AutomationScripts.java88 - Login | Salesforce
+20241019 23:45:22 INFO  [main] base.BaseTest BaseTest.java211 - screen captured
+20241019 23:45:22 ERROR [main] utility.SalesforceListeners SalesforceListeners.java43 - valid_login ended with failure.....................
+20241019 23:45:22 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:45:22 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:45:24 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:45:29 INFO  [main] utility.SalesforceListeners SalesforceListeners.java29 - valid_login  started..................
+20241019 23:45:30 INFO  [main] base.BaseTest BaseTest.java78 - remember me button is clicked
+20241019 23:45:30 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:45:30 INFO  [main] base.BaseTest BaseTest.java171 - login buttonwaiting for visibility for maximum of 3sec
+20241019 23:45:30 INFO  [main] test.AutomationScripts AutomationScripts.java88 - Login | Salesforce
+20241019 23:45:30 INFO  [main] base.BaseTest BaseTest.java211 - screen captured
+20241019 23:45:30 ERROR [main] utility.SalesforceListeners SalesforceListeners.java43 - valid_login ended with failure.....................
+20241019 23:45:30 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:45:31 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:45:33 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:45:38 INFO  [main] utility.SalesforceListeners SalesforceListeners.java29 - valid_login  started..................
+20241019 23:45:38 INFO  [main] base.BaseTest BaseTest.java78 - remember me button is clicked
+20241019 23:45:40 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:45:40 INFO  [main] base.BaseTest BaseTest.java171 - login buttonwaiting for visibility for maximum of 3sec
+20241019 23:45:40 INFO  [main] test.AutomationScripts AutomationScripts.java88 - Home Page ~ Salesforce - Developer Edition
+20241019 23:45:40 INFO  [main] utility.SalesforceListeners SalesforceListeners.java35 - valid_login ended with success......................
+20241019 23:45:40 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:45:40 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:45:42 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:45:47 INFO  [main] utility.SalesforceListeners SalesforceListeners.java29 - valid_login  started..................
+20241019 23:45:48 INFO  [main] base.BaseTest BaseTest.java78 - remember me button is clicked
+20241019 23:45:55 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:45:55 INFO  [main] base.BaseTest BaseTest.java171 - login buttonwaiting for visibility for maximum of 3sec
+20241019 23:45:55 INFO  [main] test.AutomationScripts AutomationScripts.java88 - Login | Salesforce
+20241019 23:45:56 INFO  [main] base.BaseTest BaseTest.java211 - screen captured
+20241019 23:45:56 ERROR [main] utility.SalesforceListeners SalesforceListeners.java43 - valid_login ended with failure.....................
+20241019 23:45:56 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:45:56 INFO  [main] utility.SalesforceListeners SalesforceListeners.java23 - Test MyTest ended
+20241019 23:52:56 INFO  [main] utility.SalesforceListeners SalesforceListeners.java18 - Test Started
+20241019 23:52:57 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:53:00 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:53:05 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - invalid_password_login  started..................
+20241019 23:53:05 INFO  [main] base.BaseTest BaseTest.java69 - data is entered in the Username
+20241019 23:53:06 ERROR [main] base.BaseTest BaseTest.java71 - Password textbox is not diplayed
+20241019 23:53:06 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:53:06 INFO  [main] base.BaseTest BaseTest.java151 - text is extracted from Actual Error
+20241019 23:53:06 INFO  [main] test.AutomationScripts AutomationScripts.java50 - actual message is same as expected
+20241019 23:53:06 INFO  [main] utility.SalesforceListeners SalesforceListeners.java37 - invalid_password_login ended with success......................
+20241019 23:53:06 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:53:07 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241019 23:53:07 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241019 23:53:08 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:53:10 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:53:15 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241019 23:53:15 INFO  [main] base.BaseTest BaseTest.java78 - remember me button is clicked
+20241019 23:53:15 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:53:15 INFO  [main] base.BaseTest BaseTest.java171 - login buttonwaiting for visibility for maximum of 3sec
+20241019 23:53:16 INFO  [main] test.AutomationScripts AutomationScripts.java88 - Login | Salesforce
+20241019 23:53:16 INFO  [main] base.BaseTest BaseTest.java211 - screen captured
+20241019 23:53:16 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241019 23:53:16 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:53:16 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:53:18 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:53:23 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241019 23:53:24 INFO  [main] base.BaseTest BaseTest.java78 - remember me button is clicked
+20241019 23:53:24 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:53:24 INFO  [main] base.BaseTest BaseTest.java171 - login buttonwaiting for visibility for maximum of 3sec
+20241019 23:53:24 INFO  [main] test.AutomationScripts AutomationScripts.java88 - Login | Salesforce
+20241019 23:53:24 INFO  [main] base.BaseTest BaseTest.java211 - screen captured
+20241019 23:53:24 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241019 23:53:24 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:53:25 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:53:27 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:53:32 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241019 23:53:33 INFO  [main] base.BaseTest BaseTest.java78 - remember me button is clicked
+20241019 23:53:33 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:53:33 INFO  [main] base.BaseTest BaseTest.java171 - login buttonwaiting for visibility for maximum of 3sec
+20241019 23:53:33 INFO  [main] test.AutomationScripts AutomationScripts.java88 - Login | Salesforce
+20241019 23:53:33 INFO  [main] base.BaseTest BaseTest.java211 - screen captured
+20241019 23:53:33 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241019 23:53:33 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:53:34 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:53:36 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:53:41 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241019 23:53:41 INFO  [main] base.BaseTest BaseTest.java78 - remember me button is clicked
+20241019 23:53:41 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:53:41 INFO  [main] base.BaseTest BaseTest.java171 - login buttonwaiting for visibility for maximum of 3sec
+20241019 23:53:42 INFO  [main] test.AutomationScripts AutomationScripts.java88 - Login | Salesforce
+20241019 23:53:42 INFO  [main] base.BaseTest BaseTest.java211 - screen captured
+20241019 23:53:42 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241019 23:53:42 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:53:42 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:53:44 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:53:49 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241019 23:53:50 INFO  [main] base.BaseTest BaseTest.java78 - remember me button is clicked
+20241019 23:53:50 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:53:50 INFO  [main] base.BaseTest BaseTest.java171 - login buttonwaiting for visibility for maximum of 3sec
+20241019 23:53:50 INFO  [main] test.AutomationScripts AutomationScripts.java88 - Home Page ~ Salesforce - Developer Edition
+20241019 23:53:50 INFO  [main] utility.SalesforceListeners SalesforceListeners.java37 - valid_login ended with success......................
+20241019 23:53:50 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:53:51 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java56 - *********************@BeforeMethod********************* 
+20241019 23:53:53 INFO  [main] base.BaseTest BaseTest.java60 - https://login.salesforce.com/is entered
+20241019 23:53:58 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241019 23:53:58 INFO  [main] base.BaseTest BaseTest.java78 - remember me button is clicked
+20241019 23:54:05 INFO  [main] base.BaseTest BaseTest.java78 - login Button button is clicked
+20241019 23:54:05 INFO  [main] base.BaseTest BaseTest.java171 - login buttonwaiting for visibility for maximum of 3sec
+20241019 23:54:05 INFO  [main] test.AutomationScripts AutomationScripts.java88 - Login | Salesforce
+20241019 23:54:06 INFO  [main] base.BaseTest BaseTest.java211 - screen captured
+20241019 23:54:06 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241019 23:54:06 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java71 - *********************@teardown method********************* 
+20241019 23:54:07 INFO  [main] utility.SalesforceListeners SalesforceListeners.java25 - Test MyTest ended
+20241020 00:05:01 INFO  [main] utility.SalesforceListeners SalesforceListeners.java18 - Test Started
+20241020 00:05:01 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:05:05 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:05:10 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - invalid_password_login  started..................
+20241020 00:05:10 INFO  [main] base.BaseTest BaseTest.java70 - data is entered in the Username
+20241020 00:05:10 ERROR [main] base.BaseTest BaseTest.java72 - Password textbox is not diplayed
+20241020 00:05:11 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:05:11 INFO  [main] base.BaseTest BaseTest.java152 - text is extracted from Actual Error
+20241020 00:05:11 INFO  [main] test.AutomationScripts AutomationScripts.java51 - actual message is same as expected
+20241020 00:05:11 INFO  [main] utility.SalesforceListeners SalesforceListeners.java37 - invalid_password_login ended with success......................
+20241020 00:05:11 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:05:12 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241020 00:05:12 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241020 00:05:12 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:05:15 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:05:20 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241020 00:05:20 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 00:05:21 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:05:21 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 00:05:21 INFO  [main] test.AutomationScripts AutomationScripts.java89 - Login | Salesforce
+20241020 00:05:21 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 00:05:21 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241020 00:05:21 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:05:21 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:05:24 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:05:29 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241020 00:05:29 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 00:05:30 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:05:30 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 00:05:30 INFO  [main] test.AutomationScripts AutomationScripts.java89 - Login | Salesforce
+20241020 00:05:30 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 00:05:30 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241020 00:05:30 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:05:30 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:05:33 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:05:38 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241020 00:05:38 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 00:05:39 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:05:39 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 00:05:39 INFO  [main] test.AutomationScripts AutomationScripts.java89 - Login | Salesforce
+20241020 00:05:39 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 00:05:39 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241020 00:05:39 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:05:39 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:05:41 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:05:46 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241020 00:05:47 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 00:05:47 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:05:47 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 00:05:47 INFO  [main] test.AutomationScripts AutomationScripts.java89 - Login | Salesforce
+20241020 00:05:47 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 00:05:47 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241020 00:05:47 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:05:48 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:05:50 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:05:55 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241020 00:05:55 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 00:05:56 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:05:56 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 00:05:56 INFO  [main] test.AutomationScripts AutomationScripts.java89 - 
+20241020 00:05:58 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 00:05:58 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241020 00:05:58 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:05:58 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:06:01 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:06:06 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241020 00:06:06 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 00:06:14 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:06:14 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 00:06:14 INFO  [main] test.AutomationScripts AutomationScripts.java89 - Login | Salesforce
+20241020 00:06:14 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 00:06:14 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241020 00:06:14 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:06:14 INFO  [main] utility.SalesforceListeners SalesforceListeners.java25 - Test MyTest ended
+20241020 00:46:56 INFO  [main] utility.SalesforceListeners SalesforceListeners.java18 - Test Started
+20241020 00:46:56 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:47:03 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:47:08 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - invalid_password_login  started..................
+20241020 00:47:08 INFO  [main] base.BaseTest BaseTest.java70 - data is entered in the Username
+20241020 00:47:08 ERROR [main] base.BaseTest BaseTest.java72 - Password textbox is not diplayed
+20241020 00:47:09 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:47:09 INFO  [main] base.BaseTest BaseTest.java152 - text is extracted from Actual Error
+20241020 00:47:09 INFO  [main] test.AutomationScripts AutomationScripts.java51 - actual message is same as expected
+20241020 00:47:09 INFO  [main] utility.SalesforceListeners SalesforceListeners.java37 - invalid_password_login ended with success......................
+20241020 00:47:09 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:47:10 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241020 00:47:10 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241020 00:47:10 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:47:13 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:47:18 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241020 00:47:18 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 00:47:19 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:47:19 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 00:47:19 INFO  [main] test.AutomationScripts AutomationScripts.java89 - Login | Salesforce
+20241020 00:47:19 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 00:47:19 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241020 00:47:19 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:47:19 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:47:22 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:47:27 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241020 00:47:27 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 00:47:28 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:47:28 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 00:47:28 INFO  [main] test.AutomationScripts AutomationScripts.java89 - Login | Salesforce
+20241020 00:47:28 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 00:47:28 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241020 00:47:28 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:47:28 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:47:31 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:47:36 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241020 00:47:36 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 00:47:37 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:47:37 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 00:47:37 INFO  [main] test.AutomationScripts AutomationScripts.java89 - Login | Salesforce
+20241020 00:47:37 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 00:47:37 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241020 00:47:37 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:47:37 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:47:40 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:47:45 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241020 00:47:45 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 00:47:46 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:47:46 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 00:47:46 INFO  [main] test.AutomationScripts AutomationScripts.java89 - Login | Salesforce
+20241020 00:47:46 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 00:47:46 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241020 00:47:46 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:47:47 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:47:49 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:47:54 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241020 00:47:54 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 00:47:55 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:47:55 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 00:47:56 INFO  [main] test.AutomationScripts AutomationScripts.java89 - Home Page ~ Salesforce - Developer Edition
+20241020 00:47:56 INFO  [main] utility.SalesforceListeners SalesforceListeners.java37 - valid_login ended with success......................
+20241020 00:47:56 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:47:56 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 00:47:58 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 00:48:03 INFO  [main] utility.SalesforceListeners SalesforceListeners.java31 - valid_login  started..................
+20241020 00:48:04 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 00:48:11 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 00:48:11 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 00:48:11 INFO  [main] test.AutomationScripts AutomationScripts.java89 - Login | Salesforce
+20241020 00:48:11 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 00:48:11 ERROR [main] utility.SalesforceListeners SalesforceListeners.java45 - valid_login ended with failure.....................
+20241020 00:48:11 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 00:48:12 INFO  [main] utility.SalesforceListeners SalesforceListeners.java25 - Test MyTest ended
+20241020 01:15:11 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241020 01:15:11 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 01:15:16 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 01:15:21 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241020 01:15:21 INFO  [main] base.BaseTest BaseTest.java70 - data is entered in the Username
+20241020 01:15:21 ERROR [main] base.BaseTest BaseTest.java72 - Password textbox is not diplayed
+20241020 01:15:22 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 01:15:22 INFO  [main] base.BaseTest BaseTest.java152 - text is extracted from Actual Error
+20241020 01:15:22 INFO  [main] test.AutomationScripts AutomationScripts.java51 - actual message is same as expected
+20241020 01:15:22 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241020 01:15:22 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 01:15:23 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241020 01:15:23 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241020 01:15:24 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 01:15:27 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 01:15:32 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241020 01:15:32 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 01:15:32 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 01:15:32 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 01:15:32 INFO  [main] test.AutomationScripts AutomationScripts.java89 - Login | Salesforce
+20241020 01:15:33 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 01:15:33 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241020 01:15:33 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 01:15:33 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 01:15:34 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 01:15:36 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 01:15:41 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241020 01:15:41 INFO  [main] base.BaseTest BaseTest.java79 - remember me button is clicked
+20241020 01:15:42 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 01:15:42 INFO  [main] base.BaseTest BaseTest.java172 - login buttonwaiting for visibility for maximum of 3sec
+20241020 01:15:43 INFO  [main] test.AutomationScripts AutomationScripts.java89 - Home Page ~ Salesforce - Developer Edition
+20241020 01:15:43 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241020 01:15:43 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 01:15:43 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241020 21:54:55 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241020 21:54:55 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 21:55:02 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 21:55:07 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241020 21:55:07 INFO  [main] base.BaseTest BaseTest.java70 - data is entered in the Username
+20241020 21:55:07 ERROR [main] base.BaseTest BaseTest.java72 - Password textbox is not diplayed
+20241020 21:55:08 INFO  [main] base.BaseTest BaseTest.java79 - login Button button is clicked
+20241020 21:55:08 INFO  [main] base.BaseTest BaseTest.java152 - text is extracted from Actual Error
+20241020 21:55:08 INFO  [main] test.AutomationScripts AutomationScripts.java52 - actual message is same as expected
+20241020 21:55:08 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241020 21:55:08 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 21:55:09 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241020 21:55:09 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241020 21:55:10 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 21:55:12 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 21:55:17 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241020 21:55:18 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241020 21:55:18 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 21:55:18 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 21:55:18 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java57 - *********************@BeforeMethod********************* 
+20241020 21:55:21 INFO  [main] base.BaseTest BaseTest.java61 - https://login.salesforce.com/is entered
+20241020 21:55:26 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241020 21:55:26 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241020 21:55:26 INFO  [main] base.BaseTest BaseTest.java212 - screen captured
+20241020 21:55:26 INFO  [main] base.SalesForceBaseTest SalesForceBaseTest.java72 - *********************@teardown method********************* 
+20241020 21:55:27 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241021 02:08:40 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241021 02:08:41 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 02:08:47 INFO  [main] base.BaseTest BaseTest.java90 - https://login.salesforce.com/is entered
+20241021 02:08:47 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241021 02:08:49 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 02:08:49 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 02:08:50 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 02:08:51 INFO  [main] pages.BasePage BasePage.java129 - text is extracted from Error Message
+20241021 02:08:51 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - invalid_password_login ended with failure.....................
+20241021 02:08:51 INFO  [main] base.BaseTest BaseTest.java114 - screen captured
+20241021 02:08:51 INFO  [main] base.BaseTest BaseTest.java63 - *********************@teardown method********************* 
+20241021 02:08:51 INFO  [main] base.BaseTest BaseTest.java96 - driver closed
+20241021 02:08:52 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241021 02:08:52 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241021 02:08:53 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 02:08:55 INFO  [main] base.BaseTest BaseTest.java90 - https://login.salesforce.com/is entered
+20241021 02:08:55 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 02:08:57 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 02:08:57 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 02:08:57 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241021 02:08:58 INFO  [main] base.BaseTest BaseTest.java114 - screen captured
+20241021 02:08:58 INFO  [main] base.BaseTest BaseTest.java63 - *********************@teardown method********************* 
+20241021 02:08:58 INFO  [main] base.BaseTest BaseTest.java96 - driver closed
+20241021 02:08:58 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 02:09:01 INFO  [main] base.BaseTest BaseTest.java90 - https://login.salesforce.com/is entered
+20241021 02:09:01 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 02:09:01 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 02:09:03 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 02:09:03 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241021 02:09:03 INFO  [main] base.BaseTest BaseTest.java114 - screen captured
+20241021 02:09:03 INFO  [main] base.BaseTest BaseTest.java63 - *********************@teardown method********************* 
+20241021 02:09:03 INFO  [main] base.BaseTest BaseTest.java96 - driver closed
+20241021 02:09:03 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241021 11:21:11 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241021 11:21:11 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 11:21:16 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 11:21:16 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241021 11:21:17 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 11:21:18 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 11:21:18 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 11:21:19 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 11:21:19 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241021 11:21:49 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - invalid_password_login ended with failure.....................
+20241021 11:21:49 INFO  [main] base.BaseTest BaseTest.java111 - screen captured
+20241021 11:21:49 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 11:21:50 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 11:21:50 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241021 11:21:50 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241021 11:21:51 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 11:21:54 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 11:21:54 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 11:21:55 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 11:21:56 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 11:21:56 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241021 11:21:56 INFO  [main] base.BaseTest BaseTest.java111 - screen captured
+20241021 11:21:56 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 11:21:56 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 11:21:56 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 11:21:59 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 11:21:59 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 11:22:01 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 11:22:01 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 11:22:01 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241021 11:22:01 INFO  [main] base.BaseTest BaseTest.java111 - screen captured
+20241021 11:22:01 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 11:22:02 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 11:22:02 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241021 11:30:39 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 11:30:42 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 11:30:44 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 11:30:44 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 11:30:44 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 11:30:45 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241021 11:30:45 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241021 11:30:45 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 11:30:48 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 11:30:49 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 11:30:49 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 11:30:49 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 11:30:49 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 11:30:52 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 11:30:52 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 11:30:53 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 11:30:53 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 11:35:48 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241021 11:35:48 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 11:35:52 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 11:35:52 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241021 11:35:53 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 11:35:54 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 11:35:54 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 11:35:54 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 11:35:54 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241021 11:35:55 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241021 11:35:55 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241021 11:35:55 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241021 11:35:55 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 11:35:55 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 11:35:55 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241021 11:35:55 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241021 11:35:56 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 11:35:58 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 11:35:58 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 11:35:59 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 11:36:01 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 11:36:01 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241021 11:36:01 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 11:36:01 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 11:36:01 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241021 11:36:31 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241021 11:36:31 INFO  [main] base.BaseTest BaseTest.java111 - screen captured
+20241021 11:36:31 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 11:36:32 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 11:36:32 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 11:36:34 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 11:36:34 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 11:36:35 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 11:36:36 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 11:36:36 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241021 11:36:36 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 11:36:39 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 11:36:39 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241021 11:36:39 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241021 11:36:39 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 11:36:40 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 11:36:40 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241021 12:16:30 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241021 12:16:30 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:16:34 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:16:34 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241021 12:16:36 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 12:16:37 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 12:16:37 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 12:16:37 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 12:16:37 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241021 12:16:38 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241021 12:16:38 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241021 12:16:38 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241021 12:16:38 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:16:38 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:16:39 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241021 12:16:39 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241021 12:16:40 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:16:42 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:16:42 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 12:16:43 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 12:16:45 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 12:16:45 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241021 12:16:45 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 12:16:47 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 12:16:47 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241021 12:16:47 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241021 12:16:47 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:16:48 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:16:48 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:16:50 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:16:50 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 12:16:51 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241021 12:16:51 INFO  [main] base.BaseTest BaseTest.java111 - screen captured
+20241021 12:16:51 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:16:52 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:16:52 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241021 12:37:45 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241021 12:37:46 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:37:51 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:37:51 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241021 12:37:53 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 12:37:53 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 12:37:53 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 12:37:54 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 12:37:54 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241021 12:37:54 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241021 12:37:54 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241021 12:37:54 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241021 12:37:54 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:37:55 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:37:55 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241021 12:37:55 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241021 12:37:56 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:37:58 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:37:58 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 12:38:00 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 12:38:00 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 12:38:00 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241021 12:38:00 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 12:38:01 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 12:38:01 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241021 12:38:01 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241021 12:38:01 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:38:02 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:38:02 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:38:04 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:38:04 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 12:38:05 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241021 12:38:05 INFO  [main] base.BaseTest BaseTest.java111 - screen captured
+20241021 12:38:05 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:38:06 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:38:06 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241021 12:49:08 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241021 12:49:09 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:49:12 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:49:12 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241021 12:49:13 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 12:49:14 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 12:49:14 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 12:49:14 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 12:49:14 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241021 12:49:15 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241021 12:49:15 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241021 12:49:15 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241021 12:49:15 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:49:15 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:49:15 INFO  [main] utility.XLUtility XLUtility.java51 - data is entered in the 
+20241021 12:49:15 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241021 12:49:15 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241021 12:49:16 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:49:18 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:49:18 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 12:49:21 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 12:49:21 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 12:49:21 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241021 12:49:21 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 12:49:23 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 12:49:23 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241021 12:49:23 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241021 12:49:23 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:49:24 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:49:24 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:49:27 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:49:27 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 12:49:27 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241021 12:49:28 INFO  [main] base.BaseTest BaseTest.java111 - screen captured
+20241021 12:49:28 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:49:29 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:49:29 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241021 12:52:53 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241021 12:52:53 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:52:57 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:52:57 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241021 12:52:59 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 12:52:59 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 12:52:59 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 12:52:59 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 12:52:59 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241021 12:52:59 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241021 12:52:59 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241021 12:52:59 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241021 12:52:59 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:53:00 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:53:00 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241021 12:53:00 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241021 12:53:01 INFO  [main] utility.XLUtility XLUtility.java57 - numb or rows 2
+20241021 12:53:01 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:53:03 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:53:03 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 12:53:05 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 12:53:05 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 12:53:06 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241021 12:53:06 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 12:53:06 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 12:53:06 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241021 12:53:07 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241021 12:53:07 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:53:07 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:53:07 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:53:10 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:53:10 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 12:53:10 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241021 12:53:10 INFO  [main] base.BaseTest BaseTest.java111 - screen captured
+20241021 12:53:10 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:53:11 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:53:11 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241021 12:56:44 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241021 12:56:44 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:56:49 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:56:49 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241021 12:56:52 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 12:56:52 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 12:56:52 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 12:56:52 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 12:56:52 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241021 12:56:53 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241021 12:56:53 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241021 12:56:53 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241021 12:56:53 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:56:53 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:56:53 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241021 12:56:53 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241021 12:56:54 INFO  [main] utility.XLUtility XLUtility.java57 - numb or rows 2
+20241021 12:56:54 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:56:57 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:56:57 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 12:56:57 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241021 12:56:58 INFO  [main] base.BaseTest BaseTest.java111 - screen captured
+20241021 12:56:58 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:56:58 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:56:58 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241021 12:57:01 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20241021 12:57:01 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241021 12:57:03 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241021 12:57:03 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241021 12:57:03 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241021 12:57:03 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241021 12:57:06 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241021 12:57:06 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241021 12:57:06 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241021 12:57:06 INFO  [main] base.BaseTest BaseTest.java60 - *********************@teardown method********************* 
+20241021 12:57:06 INFO  [main] base.BaseTest BaseTest.java93 - driver closed
+20241021 12:57:06 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241022 10:23:03 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241022 10:23:03 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241022 10:23:05 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241022 10:23:05 INFO  [main] utility.SalesforceListeners SalesforceListeners.java58 - invalid_password_login skiped...........................
+20241022 10:23:05 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241022 10:23:05 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241022 10:23:06 INFO  [main] utility.XLUtility XLUtility.java57 - numb or rows 2
+20241022 10:23:06 INFO  [main] utility.XLUtility XLUtility.java61 - row itteration 1
+20241022 10:23:06 INFO  [main] utility.XLUtility XLUtility.java65 - cell itteration 0
+20241022 10:23:06 INFO  [main] utility.XLUtility XLUtility.java67 - data itteration aama@tekarch.com
+20241022 10:23:06 INFO  [main] utility.XLUtility XLUtility.java65 - cell itteration 1
+20241022 10:23:06 INFO  [main] utility.XLUtility XLUtility.java67 - data itteration mother@1
+20241022 10:23:06 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241022 10:23:06 INFO  [main] utility.SalesforceListeners SalesforceListeners.java58 - valid_login skiped...........................
+20241022 10:23:06 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241022 10:23:06 INFO  [main] utility.SalesforceListeners SalesforceListeners.java58 - valid_login skiped...........................
+20241022 10:23:06 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241022 10:26:37 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241022 10:26:37 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241022 10:26:38 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241022 10:26:39 INFO  [main] utility.SalesforceListeners SalesforceListeners.java58 - invalid_password_login skiped...........................
+20241022 10:26:39 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241022 10:26:39 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241022 10:26:40 INFO  [main] utility.XLUtility XLUtility.java57 - numb or rows 2
+20241022 10:26:40 INFO  [main] utility.XLUtility XLUtility.java61 - row itteration 1
+20241022 10:26:40 INFO  [main] utility.XLUtility XLUtility.java65 - cell itteration 0
+20241022 10:26:40 INFO  [main] utility.XLUtility XLUtility.java67 - data itteration aama@tekarch.com
+20241022 10:26:40 INFO  [main] utility.XLUtility XLUtility.java65 - cell itteration 1
+20241022 10:26:40 INFO  [main] utility.XLUtility XLUtility.java67 - data itteration mother@1
+20241022 10:26:40 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241022 10:26:40 INFO  [main] utility.SalesforceListeners SalesforceListeners.java58 - valid_login skiped...........................
+20241022 10:26:40 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241022 10:26:40 INFO  [main] utility.SalesforceListeners SalesforceListeners.java58 - valid_login skiped...........................
+20241022 10:26:40 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241022 11:26:34 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241022 11:26:35 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241022 11:26:39 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241022 11:26:39 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241022 11:26:42 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241022 11:26:43 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241022 11:26:43 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241022 11:26:43 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241022 11:26:43 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241022 11:26:44 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241022 11:26:44 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241022 11:26:44 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241022 11:26:44 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241022 11:26:45 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241022 11:26:45 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241022 11:26:45 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241022 11:26:47 INFO  [main] utility.XLUtility XLUtility.java57 - numb or rows 2
+20241022 11:26:47 INFO  [main] utility.XLUtility XLUtility.java61 - row itteration 1
+20241022 11:26:47 INFO  [main] utility.XLUtility XLUtility.java65 - cell itteration 0
+20241022 11:26:47 INFO  [main] utility.XLUtility XLUtility.java67 - data itteration aama@tekarch.com
+20241022 11:26:47 INFO  [main] utility.XLUtility XLUtility.java65 - cell itteration 1
+20241022 11:26:47 INFO  [main] utility.XLUtility XLUtility.java67 - data itteration mother@1
+20241022 11:26:47 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241022 11:26:50 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241022 11:26:50 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241022 11:26:51 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241022 11:26:52 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241022 11:26:52 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241022 11:26:52 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241022 11:26:52 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241022 11:26:55 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241022 11:26:55 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241022 11:26:56 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241022 11:26:58 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241022 11:26:58 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241022 11:26:58 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241022 11:27:01 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241022 11:27:01 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241022 11:27:01 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241022 11:27:01 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241022 11:27:04 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241022 11:27:05 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241022 14:24:01 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241022 14:24:02 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241022 14:24:11 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241022 14:24:11 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241022 14:24:14 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241022 14:24:14 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241022 14:24:14 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241022 14:24:15 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241022 14:24:15 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241022 14:24:15 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241022 14:24:15 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241022 14:24:15 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241022 14:24:15 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241022 14:24:17 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241022 14:24:18 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241022 14:24:18 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241022 14:24:19 INFO  [main] utility.XLUtility XLUtility.java57 - numb or rows 2
+20241022 14:24:19 INFO  [main] utility.XLUtility XLUtility.java61 - row itteration 1
+20241022 14:24:19 INFO  [main] utility.XLUtility XLUtility.java65 - cell itteration 0
+20241022 14:24:19 INFO  [main] utility.XLUtility XLUtility.java67 - data itteration aama@tekarch.com
+20241022 14:24:19 INFO  [main] utility.XLUtility XLUtility.java65 - cell itteration 1
+20241022 14:24:19 INFO  [main] utility.XLUtility XLUtility.java67 - data itteration mother@1
+20241022 14:24:19 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241022 14:24:23 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241022 14:24:23 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241022 14:24:25 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241022 14:24:25 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241022 14:24:25 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241022 14:24:26 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241022 14:24:26 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241022 14:24:29 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241022 14:24:29 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241022 14:24:32 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241022 14:24:32 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241022 14:24:32 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241022 14:24:32 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241022 14:24:37 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241022 14:24:37 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241022 14:24:37 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241022 14:24:37 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241022 14:24:38 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241022 14:24:38 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241024 23:38:28 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241024 23:38:32 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241024 23:38:34 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241024 23:38:34 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241024 23:38:35 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241024 23:38:35 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241024 23:38:35 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241024 23:38:36 INFO  [main] utility.XLUtility XLUtility.java57 - numb or rows 2
+20241024 23:38:36 INFO  [main] utility.XLUtility XLUtility.java61 - row itteration 1
+20241024 23:38:36 INFO  [main] utility.XLUtility XLUtility.java65 - cell itteration 0
+20241024 23:38:36 INFO  [main] utility.XLUtility XLUtility.java67 - data itteration aama@tekarch.com
+20241024 23:38:36 INFO  [main] utility.XLUtility XLUtility.java65 - cell itteration 1
+20241024 23:38:36 INFO  [main] utility.XLUtility XLUtility.java67 - data itteration mother@1
+20241024 23:38:36 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241024 23:38:38 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241024 23:38:39 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241024 23:38:39 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241024 23:38:39 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241024 23:38:41 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241024 23:38:43 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241024 23:38:43 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241024 23:38:43 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241024 23:38:44 ERROR [main] LogTests.LogTests LogTests.java65 - test completed with failure
+20241024 23:38:44 DEBUG [main] LogTests.LogTests LogTests.java79 - test started
+20241025 00:01:11 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 00:01:12 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:01:17 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:01:17 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 00:01:18 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:01:19 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:01:19 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:01:20 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:01:20 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 00:01:20 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 00:01:20 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 00:01:20 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 00:01:20 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:01:21 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:01:21 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241025 00:01:21 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241025 00:01:22 INFO  [main] utility.XLUtility XLUtility.java57 - numb or rows 2
+20241025 00:01:22 INFO  [main] utility.XLUtility XLUtility.java61 - row itteration 1
+20241025 00:01:22 INFO  [main] utility.XLUtility XLUtility.java65 - cell itteration 0
+20241025 00:01:22 INFO  [main] utility.XLUtility XLUtility.java67 - data itteration aama@tekarch.com
+20241025 00:01:22 INFO  [main] utility.XLUtility XLUtility.java65 - cell itteration 1
+20241025 00:01:22 INFO  [main] utility.XLUtility XLUtility.java67 - data itteration mother@1
+20241025 00:01:22 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:01:25 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:01:25 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:01:26 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241025 00:01:26 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241025 00:01:26 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:01:27 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:01:27 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:01:29 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:01:29 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:01:30 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:01:30 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:01:31 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 00:01:31 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:01:33 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:01:33 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 00:01:33 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241025 00:01:33 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:01:33 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:01:33 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241025 00:15:13 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 00:15:14 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:15:19 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:15:19 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 00:15:22 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:15:22 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:15:22 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:15:25 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:15:25 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 00:15:25 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 00:15:25 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 00:15:25 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 00:15:25 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:15:25 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:15:25 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241025 00:15:25 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241025 00:15:26 INFO  [main] utility.XLUtility XLUtility.java58 - numb or rows 1
+20241025 00:15:26 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:15:29 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:15:29 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:15:29 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241025 00:15:29 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241025 00:15:29 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:15:30 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:15:30 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241025 00:25:28 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 00:25:28 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:25:32 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:25:32 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 00:25:33 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:25:34 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:25:34 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:25:34 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:25:34 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 00:25:35 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 00:25:35 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 00:25:35 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 00:25:35 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:25:35 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:25:36 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241025 00:25:36 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241025 00:25:37 INFO  [main] utility.XLUtility XLUtility.java58 - numb or rows 2
+20241025 00:25:37 INFO  [main] utility.XLUtility XLUtility.java60 - numb or cols 2
+20241025 00:25:37 INFO  [main] utility.XLUtility XLUtility.java63 - row itteration 0
+20241025 00:25:37 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 0
+20241025 00:25:37 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration username
+20241025 00:25:37 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 1
+20241025 00:25:37 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration password
+20241025 00:25:37 INFO  [main] utility.XLUtility XLUtility.java63 - row itteration 1
+20241025 00:25:37 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 0
+20241025 00:25:37 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration aama@tekarch.com
+20241025 00:25:37 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 1
+20241025 00:25:37 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration mother@1
+20241025 00:25:37 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:25:40 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:25:40 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:25:40 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:25:41 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:25:42 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 00:25:42 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:25:42 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:25:42 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 00:26:13 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241025 00:26:13 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241025 00:26:13 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:26:13 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:26:13 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:26:16 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:26:16 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:26:17 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:26:18 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:26:18 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 00:26:18 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:26:19 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:26:19 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 00:26:21 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241025 00:26:21 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:26:22 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:26:22 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241025 00:28:28 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 00:28:29 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:28:32 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:28:32 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 00:28:33 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:28:34 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:28:34 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:28:35 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:28:35 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 00:28:35 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 00:28:35 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 00:28:35 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 00:28:35 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:28:35 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:28:36 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241025 00:28:36 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241025 00:28:37 INFO  [main] utility.XLUtility XLUtility.java58 - numb or rows 2
+20241025 00:28:37 INFO  [main] utility.XLUtility XLUtility.java60 - numb or cols 2
+20241025 00:28:37 INFO  [main] utility.XLUtility XLUtility.java63 - row itteration 1
+20241025 00:28:37 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 0
+20241025 00:28:37 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration aama@tekarch.com
+20241025 00:28:37 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 1
+20241025 00:28:37 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration mother@1
+20241025 00:28:37 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:28:39 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:28:39 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:28:40 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241025 00:28:40 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241025 00:28:40 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:28:41 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:28:41 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:28:43 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:28:43 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:28:45 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:28:46 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:28:46 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 00:28:46 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:28:47 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:28:47 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 00:28:48 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241025 00:28:48 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:28:52 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:28:52 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241025 00:31:18 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 00:31:18 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:31:21 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:31:21 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 00:31:22 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:31:22 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:31:22 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:31:23 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:31:23 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 00:31:23 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 00:31:23 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 00:31:23 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 00:31:23 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:31:24 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:31:24 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241025 00:31:24 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241025 00:31:25 INFO  [main] utility.XLUtility XLUtility.java58 - numb or rows 2
+20241025 00:31:25 INFO  [main] utility.XLUtility XLUtility.java60 - numb or cols 2
+20241025 00:31:25 INFO  [main] utility.XLUtility XLUtility.java63 - row itteration 1
+20241025 00:31:25 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 0
+20241025 00:31:25 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration null
+20241025 00:31:25 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 1
+20241025 00:31:25 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration null
+20241025 00:31:25 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:31:27 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:31:27 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:31:28 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:31:28 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:31:29 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 00:31:29 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:31:34 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:31:34 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 00:31:34 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241025 00:31:34 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:31:34 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:31:34 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:31:37 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:31:37 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:31:38 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241025 00:31:38 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241025 00:31:38 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:31:39 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:31:39 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241025 00:41:39 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 00:41:40 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:41:43 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:41:43 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 00:41:44 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:41:45 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:41:45 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:41:46 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:41:46 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 00:41:46 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 00:41:46 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 00:41:46 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 00:41:46 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:41:47 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:41:47 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241025 00:41:47 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241025 00:41:48 INFO  [main] utility.XLUtility XLUtility.java58 - numb or rows 2
+20241025 00:41:48 INFO  [main] utility.XLUtility XLUtility.java60 - numb or cols 2
+20241025 00:41:48 INFO  [main] utility.XLUtility XLUtility.java63 - row itteration 1
+20241025 00:41:48 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 0
+20241025 00:41:48 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration aama@tekarch.com
+20241025 00:41:48 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration aama@tekarch.com
+20241025 00:41:48 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 1
+20241025 00:41:48 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration mother@1
+20241025 00:41:48 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration mother@1
+20241025 00:41:48 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:41:51 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:41:51 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:41:51 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241025 00:41:52 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241025 00:41:52 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:41:52 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:41:52 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:41:54 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:41:54 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:41:55 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:41:56 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:41:56 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 00:41:56 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:41:57 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:41:57 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 00:41:58 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241025 00:41:58 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:41:58 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:41:58 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241025 00:52:30 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 00:52:30 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:52:35 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:52:35 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 00:52:37 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:52:37 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:52:37 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:52:38 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:52:38 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 00:52:38 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 00:52:38 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 00:52:38 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 00:52:38 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:52:39 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:52:40 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241025 00:52:40 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241025 00:52:41 INFO  [main] utility.XLUtility XLUtility.java58 - numb or rows 2
+20241025 00:52:41 INFO  [main] utility.XLUtility XLUtility.java60 - numb or cols 2
+20241025 00:52:41 INFO  [main] utility.XLUtility XLUtility.java63 - row itteration 1
+20241025 00:52:41 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 0
+20241025 00:52:41 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration aama@tekarch.com
+20241025 00:52:41 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration aama@tekarch.com
+20241025 00:52:41 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 1
+20241025 00:52:41 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration mother@1
+20241025 00:52:41 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration mother@1
+20241025 00:52:41 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:52:43 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:52:43 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:52:43 INFO  [main] test.AutomationScripts AutomationScripts.java64 - username:nullpassword:null
+20241025 00:52:44 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241025 00:52:45 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241025 00:52:45 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:52:45 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:52:45 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:52:48 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:52:48 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:52:48 INFO  [main] test.AutomationScripts AutomationScripts.java64 - username:aama@tekarch.compassword:mother@1
+20241025 00:52:49 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:52:50 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:52:50 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 00:52:50 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:52:51 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:52:51 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 00:52:51 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241025 00:52:51 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:52:51 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:52:52 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241025 00:57:38 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 00:57:39 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:57:43 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:57:43 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 00:57:45 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:57:45 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:57:45 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:57:45 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:57:45 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 00:57:46 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 00:57:46 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 00:57:46 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 00:57:46 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:57:47 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:57:47 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241025 00:57:47 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java58 - numb or rows 2
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java60 - numb or cols 2
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java63 - row itteration 0
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 0
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration username
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration username
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 1
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration password
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration password
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java63 - row itteration 1
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 0
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration aama@tekarch.com
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration aama@tekarch.com
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 1
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java69 - data itteration mother@1
+20241025 00:57:48 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration mother@1
+20241025 00:57:48 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:57:50 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:57:50 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:57:50 INFO  [main] test.AutomationScripts AutomationScripts.java64 - username:usernamepassword:password
+20241025 00:57:52 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:57:53 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:57:53 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 00:57:53 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:57:53 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:57:53 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 00:58:23 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241025 00:58:23 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241025 00:58:23 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:58:24 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:58:24 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 00:58:26 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 00:58:26 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 00:58:26 INFO  [main] test.AutomationScripts AutomationScripts.java64 - username:aama@tekarch.compassword:mother@1
+20241025 00:58:26 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 00:58:28 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 00:58:28 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 00:58:28 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 00:58:29 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 00:58:29 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 00:58:29 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241025 00:58:29 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 00:58:30 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 00:58:30 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241025 01:05:26 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 01:05:26 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 01:05:29 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 01:05:30 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 01:05:31 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 01:05:31 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 01:05:31 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 01:05:32 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 01:05:32 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 01:05:32 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 01:05:32 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 01:05:32 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 01:05:32 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 01:05:33 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 01:05:33 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241025 01:05:33 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241025 01:05:34 INFO  [main] utility.XLUtility XLUtility.java58 - numb or rows 2
+20241025 01:05:34 INFO  [main] utility.XLUtility XLUtility.java60 - numb or cols 2
+20241025 01:05:34 INFO  [main] utility.XLUtility XLUtility.java63 - row itteration 1
+20241025 01:05:34 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 0
+20241025 01:05:34 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration aama@tekarch.com
+20241025 01:05:34 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 1
+20241025 01:05:34 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration mother@1
+20241025 01:05:34 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 01:05:36 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 01:05:36 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 01:05:36 INFO  [main] test.AutomationScripts AutomationScripts.java64 - username:nullpassword:null
+20241025 01:05:37 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241025 01:05:37 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241025 01:05:37 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 01:05:38 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 01:05:38 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 01:05:41 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 01:05:41 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 01:05:41 INFO  [main] test.AutomationScripts AutomationScripts.java64 - username:aama@tekarch.compassword:mother@1
+20241025 01:05:41 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 01:05:42 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 01:05:42 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 01:05:42 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 01:05:43 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 01:05:43 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 01:05:44 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241025 01:05:44 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 01:05:44 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 01:05:44 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241025 01:14:10 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 01:14:10 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 01:14:15 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 01:14:15 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 01:14:17 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 01:14:17 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 01:14:17 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 01:14:17 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 01:14:17 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 01:14:18 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 01:14:18 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 01:14:18 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 01:14:18 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 01:14:18 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 01:14:19 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241025 01:14:19 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241025 01:14:20 INFO  [main] utility.XLUtility XLUtility.java58 - numb or rows 2
+20241025 01:14:20 INFO  [main] utility.XLUtility XLUtility.java60 - numb or cols 2
+20241025 01:14:20 INFO  [main] utility.XLUtility XLUtility.java63 - row itteration 1
+20241025 01:14:20 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 0
+20241025 01:14:20 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration aama@tekarch.com
+20241025 01:14:20 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 1
+20241025 01:14:20 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration mother@1
+20241025 01:14:20 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 01:14:22 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 01:14:22 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 01:14:22 INFO  [main] test.AutomationScripts AutomationScripts.java64 - username:nullpassword:null
+20241025 01:14:23 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241025 01:14:23 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241025 01:14:23 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 01:14:24 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 01:14:24 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 01:14:27 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 01:14:27 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 01:14:27 INFO  [main] test.AutomationScripts AutomationScripts.java64 - username:aama@tekarch.compassword:mother@1
+20241025 01:14:29 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 01:14:29 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 01:14:29 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 01:14:29 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 01:14:30 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 01:14:30 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 01:14:31 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241025 01:14:31 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 01:14:31 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 01:14:31 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241025 01:27:32 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 01:27:32 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 01:27:40 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 01:27:40 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 01:27:43 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 01:27:43 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 01:27:43 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 01:27:43 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 01:27:43 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 01:27:44 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 01:27:44 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 01:27:44 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 01:27:44 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 01:27:45 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 01:27:45 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241025 01:27:45 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241025 01:27:46 INFO  [main] utility.XLUtility XLUtility.java58 - numb or rows 2
+20241025 01:27:46 INFO  [main] utility.XLUtility XLUtility.java60 - numb or cols 2
+20241025 01:27:46 INFO  [main] utility.XLUtility XLUtility.java63 - row itteration 1
+20241025 01:27:46 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 0
+20241025 01:27:46 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration aama@tekarch.com
+20241025 01:27:46 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 1
+20241025 01:27:46 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration mother@1
+20241025 01:27:46 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 01:27:48 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 01:27:48 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 01:27:48 INFO  [main] test.AutomationScripts AutomationScripts.java64 - username:nullpassword:null
+20241025 01:27:49 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241025 01:27:49 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241025 01:27:49 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 01:27:50 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 01:27:50 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 01:27:52 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 01:27:52 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 01:27:52 INFO  [main] test.AutomationScripts AutomationScripts.java64 - username:aama@tekarch.compassword:mother@1
+20241025 01:27:53 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 01:27:54 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 01:27:54 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 01:27:54 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 01:27:55 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 01:27:55 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 01:27:56 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241025 01:27:56 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 01:27:56 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 01:27:56 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241025 01:29:56 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 01:29:56 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 01:30:00 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 01:30:00 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 01:30:02 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 01:30:02 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 01:30:02 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 01:30:03 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 01:30:03 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 01:30:03 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 01:30:03 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 01:30:03 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 01:30:03 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 01:30:04 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 01:30:04 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20241025 01:30:04 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20241025 01:30:05 INFO  [main] utility.XLUtility XLUtility.java58 - numb or rows 2
+20241025 01:30:05 INFO  [main] utility.XLUtility XLUtility.java60 - numb or cols 2
+20241025 01:30:05 INFO  [main] utility.XLUtility XLUtility.java63 - row itteration 1
+20241025 01:30:05 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 0
+20241025 01:30:05 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration aama@tekarch.com
+20241025 01:30:05 INFO  [main] utility.XLUtility XLUtility.java67 - cell itteration 1
+20241025 01:30:05 INFO  [main] utility.XLUtility XLUtility.java70 - data itteration mother@1
+20241025 01:30:05 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 01:30:08 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 01:30:08 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 01:30:08 INFO  [main] test.AutomationScripts AutomationScripts.java64 - username:nullpassword:null
+20241025 01:30:08 ERROR [main] utility.SalesforceListeners SalesforceListeners.java48 - valid_login ended with failure.....................
+20241025 01:30:09 INFO  [main] base.BaseTest BaseTest.java109 - screen captured
+20241025 01:30:09 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 01:30:09 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 01:30:09 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 01:30:12 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 01:30:12 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 01:30:12 INFO  [main] test.AutomationScripts AutomationScripts.java64 - username:aama@tekarch.compassword:mother@1
+20241025 01:30:13 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 01:30:14 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 01:30:14 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 01:30:14 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 01:30:15 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 01:30:15 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 01:30:15 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241025 01:30:15 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 01:30:16 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 01:30:16 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241025 13:18:57 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 13:18:58 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 13:19:03 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 13:19:03 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 13:19:04 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 13:19:05 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 13:19:05 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 13:19:06 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 13:19:06 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 13:19:07 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 13:19:07 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 13:19:07 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 13:19:07 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 13:19:07 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 13:19:07 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
+20241025 13:26:29 INFO  [main] utility.SalesforceListeners SalesforceListeners.java21 - Test Started
+20241025 13:26:30 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 13:26:34 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 13:26:34 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - invalid_password_login  started..................
+20241025 13:26:36 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 13:26:37 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 13:26:37 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 13:26:37 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 13:26:37 INFO  [main] pages.BasePage BasePage.java167 - Error messagewaiting for string to be presend 30sec
+20241025 13:26:38 INFO  [main] pages.BasePage BasePage.java131 - text is extracted from Error Message
+20241025 13:26:38 INFO  [main] test.AutomationScripts AutomationScripts.java46 - actual message is same as expected
+20241025 13:26:38 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - invalid_password_login ended with success......................
+20241025 13:26:38 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 13:26:39 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 13:26:39 INFO  [main] base.BaseTest BaseTest.java48 - *********************@BeforeMethod********************* 
+20241025 13:26:41 INFO  [main] base.BaseTest BaseTest.java85 - https://login.salesforce.com/is entered
+20241025 13:26:41 INFO  [main] utility.SalesforceListeners SalesforceListeners.java34 - valid_login  started..................
+20241025 13:26:41 INFO  [main] test.AutomationScripts AutomationScripts.java83 - username:aama@tekarch.compassword:mother@1
+20241025 13:26:43 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Username
+20241025 13:26:44 INFO  [main] pages.BasePage BasePage.java38 - data is entered in the Password
+20241025 13:26:44 INFO  [main] pages.BasePage BasePage.java49 - Remember Me box button is clicked
+20241025 13:26:44 INFO  [main] pages.BasePage BasePage.java161 - clickLoginwaiting for elemnt to be clicked 30sec
+20241025 13:26:45 INFO  [main] pages.BasePage BasePage.java49 - Login button button is clicked
+20241025 13:26:45 INFO  [main] pages.BasePage BasePage.java180 - titlewaiting to the title to be present 30sec
+20241025 13:26:46 INFO  [main] utility.SalesforceListeners SalesforceListeners.java40 - valid_login ended with success......................
+20241025 13:26:46 INFO  [main] base.BaseTest BaseTest.java58 - *********************@teardown method********************* 
+20241025 13:26:47 INFO  [main] base.BaseTest BaseTest.java91 - driver closed
+20241025 13:26:47 INFO  [main] utility.SalesforceListeners SalesforceListeners.java28 - Test MyTest ended
